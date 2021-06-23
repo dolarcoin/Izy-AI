@@ -1,2 +1,2 @@
-# Izy-AI
+# Izy-IA
 Virtual Assistant
